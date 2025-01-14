@@ -28,7 +28,7 @@
     "autoprefixer": "latest",
     "eslint": "latest",
     "eslint-config-next": "latest",
-    "next": "^15.1.4",
+    "next": "^14.2.23",
     "postcss": "latest",
     "sass": "^1.69.5",
     "tailwindcss": "latest"

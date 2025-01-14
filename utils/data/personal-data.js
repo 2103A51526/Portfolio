@@ -1,8 +1,8 @@
 export const personalData = {
   name: "Vikram Kumar",
-  profile: '/profile.jpg',
+  profile: '/profile.png',
   designation: "Software Developer",
-  description: "My name is VIKRAM KUMAR, and I am a professional and enthusiastic programmer with a passion for learning and problem-solving. I am a quick learner with a strong self-learning attitude, always exploring new technologies to expand my skill set. I specialize in MERN stack development and Flutter, which allows me to build scalable web and mobile applications. I am passionate about creating open and accessible web experiences and strive to deliver high-quality, user-centric solutions. My core skills are centered around JavaScript and cross-platform mobile development. I am available for job opportunities that align with my skills and passion.",
+  description: "Hii, I am Vikram Kumar, a professional programmer who is passionate about problem-solving and continuous learning. I specialize in MERN stack development and Flutter, which enable me to build scalable web and mobile applications. With a solid foundation in JavaScript and cross-platform mobile development, I am focused on building innovative, user-centric solutions that offer seamless experiences across all platforms.I am a fast learner with an excellent self-learning attitude. As such, I continually seek out new technologies in order to extend my skills and be up-to-date on the most recent developments. I am proud to deliver quality accessible web experiences and take complex challenges with creative problem-solving in mind.I am currently seeking an exciting job opportunity that aligns with my passion for technology and my drive to make a difference. Let's connect and see how we can collaborate to build the future of technology together!",
   email: 'vikramkumar04836@gmail.com',
   phone: '+91 7075323228',
   address: 'Ramnagar Hanamkonda Warangal Telangana 506001',
