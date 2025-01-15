@@ -65,6 +65,7 @@ function ProjectCard({ project }) {
         </code>
       </div>
     </div>
+    
   );
 };
 
