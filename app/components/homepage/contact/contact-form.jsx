@@ -30,9 +30,9 @@ function ContactForm() {
     setIsLoading(true);
 
     // Validate EmailJS environment variables
-    const serviceId = "service_ifqcibb";
-    const templateId = "template_4o3e9ec";
-    const publicKey = "1zxMg7a7zGM9Orz22";
+    const serviceId = "service_6cryeyp";
+    const templateId = "service_6cryeyp";
+    const publicKey = "Z_JDglMLYUz9TILKB";
 
     if (!serviceId || !templateId || !publicKey) {
       console.error("EmailJS environment variables are not set.");
