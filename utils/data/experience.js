@@ -7,7 +7,7 @@ export const experiences = [
   },
   {
     id: 2,
-    title: "FullStack Developer",
+    title: "Frontend Developer",
     company: "NIT Warangal Internship",
     duration: "(Jun 2023 - Aug 2024)"
   },
@@ -16,5 +16,5 @@ export const experiences = [
     title: "Self Employed",
     company: "Code and build something in everyday.",
     duration: "(Nov 2021 - Present)"
-  }
+  },
 ]

@@ -2,7 +2,6 @@ import ayla from '/public/image/ayla.jpg';
 import crefin from '/public/image/crefin.jpg';
 import realEstate from '/public/image/real-estate.jpg';
 import travel from '/public/image/travel.jpg';
-import learn from '/public/image/learn.jpg'
 export const projectsData = [
     {
         id: 1,
@@ -36,23 +35,13 @@ export const projectsData = [
     },
     {
         id: 4,
-        name: 'Apple Showcase Animated Website',
-        description: 'I developed an animated iPhone store website using React + Vite and GSAP, feabturing sleek animations, smooth transitions, and a modern, responsive design. The site offers an interactive shopping experience with engaging product displays, customizable options, and detailed pages for each iPhone model. Utilizing GSAP, I created dynamic scrolling effects and captivating animations, ensuring a visually immersive and performance-optimized user experience across all devices. This project highlights my expertise in React, advanced animations, and crafting intuitive, user-friendly interfaces.',
-        tools: ['ReactJS', 'Bootstrap','Vite','TailwindCSS', 'ThreeJS','Gsap', 'ExpressJS', 'JavaScript', 'MongoDB',  'JWT'],
+        name: 'Product Store',
+        description: 'A user-centric web application designed for listing and showcasing products for sale. It allows users to upload product details, including images, prices, and descriptions, enabling a streamlined buying and selling experience. The platform supports real-time updates, intuitive navigation, and visually appealing interfaces, ensuring convenience for users to explore and purchase items efficiently.',
+        tools: ['ReactJS', 'Bootstrap','Vite','TailwindCSS','Gsap', 'ExpressJS', 'JavaScript', 'MongoDB',  'JWT'],
         code: '',
         role: 'Full Stack Developer',
         demo: '',
         image: realEstate,
-    },
-    {
-        id: 5,
-        name: 'One-Step Mobile Solution Application ',
-        description: "An all-encompassing Flutter application offering a unified platform for users to execute mobile recharges, procure products, settle bills, review transaction histories, and oversee diverse financial operations. The application is meticulously designed with a contemporary, user-centric interface, incorporating a multitude of features to elevate the user experience. UserID- LG000047 and Pass- 12345678.",
-        tools: ['Flutter', 'Dart', 'RestApi', 'Android Studio', "MySQL"],
-        code: '',
-        demo: '',
-        image: learn,
-        role: 'Full Stack Developer',
     },
     
 ];
