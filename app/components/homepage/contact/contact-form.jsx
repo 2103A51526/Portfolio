@@ -31,7 +31,7 @@ function ContactForm() {
 
     // Validate EmailJS environment variables
     const serviceId = "service_6cryeyp";
-    const templateId = "service_6cryeyp";
+    const templateId = "template_1bhgyf9";
     const publicKey = "Z_JDglMLYUz9TILKB";
 
     if (!serviceId || !templateId || !publicKey) {
