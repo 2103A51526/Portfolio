@@ -9,7 +9,7 @@ export const experiences = [
     id: 2,
     title: "Frontend Developer",
     company: "NIT Warangal Internship",
-    duration: "(Jun 2023 - Aug 2024)"
+    duration: "(Jun 2024 - Aug 2024)"
   },
   {
     id: 3,
