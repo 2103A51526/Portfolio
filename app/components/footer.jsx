@@ -11,12 +11,12 @@ function Footer() {
         </div>
         <div className="flex flex-col md:flex-row items-center justify-between">
           <p className="text-sm">
-            © Developer Portfolio by <Link target="_blank" href="https://www.linkedin.com/in/vikram-kumar-2b1473270/" className="text-[#16f2b3]">Vikram kumar</Link>
+            © Developer Portfolio by <Link target="_blank" href="https://www.linkedin.com/in/chandan-raj07" className="text-[#16f2b3]">Chandan Raj</Link>
           </p>
           <div className="flex items-center gap-5">
             <Link
               target="_blank"
-              href="https://github.com/2103A51526"
+              href="https://github.com/Chandan-I"
               className="flex items-center gap-2 uppercase hover:text-[#16f2b3]"
             >
               <IoStar />

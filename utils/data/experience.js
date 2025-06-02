@@ -1,9 +1,9 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Full Stack Developer Internship',
-    company: "Edunet Foundation.",
-    duration: "(Nov 2024 - Jan 2025)"
+    title: 'Cisco Certified Network Associate (CCNA)',
+    company: "ASD Academy",
+    duration: "(April 2024 - Jun 2025)"
   },
   {
     id: 2,
@@ -13,8 +13,8 @@ export const experiences = [
   },
   {
     id: 3,
-    title: "Self Employed",
-    company: "Code and build something in everyday.",
-    duration: "(Nov 2021 - Present)"
+    title: "Ethical Hacking",
+    company: "ASD Academy.",
+    duration: "(Dec 2024 - Present)"
   },
 ]

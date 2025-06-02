@@ -9,9 +9,9 @@ import ScrollToTop from "./components/helper/scroll-to-top";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of VIKRAM KUMAR - Software Developer",
+  title: "Portfolio of CHANDAN RAJ",
   description:
-    "This is the portfolio of Vikram. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "This is Chandan’s portfolio. I possess expertise in Networking and Cybersecurity, complemented by my skills as a self-taught developer. I have a passion for continuous learning and thrive in collaborative environments. A rapid learner by nature, I actively seek out new challenges to expand my knowledge and sharpen my abilities.",
 };
 
 export default function RootLayout({ children }) {

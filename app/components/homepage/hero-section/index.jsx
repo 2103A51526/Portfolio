@@ -24,9 +24,9 @@ function HeroSection() {
         <div className="order-2 lg:order-1 flex flex-col items-start justify-center p-2 pb-20 md:pb-10 lg:pt-10">
           <h1 className="text-3xl font-bold leading-10 text-white md:font-extrabold lg:text-[2.6rem] lg:leading-[3.5rem]">
             Hello, <br />
-            This is {' '}
+            My name is {' '}
             <span className=" text-pink-500">{personalData.name}</span>
-            {` , I'm a Professional `}
+            {`, I am good at `}
             <span className=" text-[#16f2b3]">{personalData.designation}</span>
             .
           </h1>
@@ -46,13 +46,13 @@ function HeroSection() {
             >
               <BsLinkedin size={30} />
             </Link>
-            <Link
+            {/* <Link
               href={personalData.facebook}
               target='_blank'
               className="transition-all text-pink-500 hover:scale-125 duration-300"
             >
               <FaFacebook size={30} />
-            </Link>
+            </Link> */}
             <Link
               href={personalData.leetcode}
               target='_blank'
@@ -101,46 +101,46 @@ function HeroSection() {
             <code className="font-mono text-xs md:text-sm lg:text-base">
               <div className="blink">
                 <span className="mr-2 text-pink-500">const</span>
-                <span className="mr-2 text-white">developer</span>
+                <span className="mr-2 text-white">Security Analyst | Ethical Hacker | Software Engineer</span>
                 <span className="mr-2 text-pink-500">=</span>
                 <span className="text-gray-400">{'{'}</span>
               </div>
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">name:</span>
                 <span className="text-gray-400">{`'`}</span>
-                <span className="text-amber-300">Vikram Kumar</span>
+                <span className="text-amber-300">Chandan Raj</span>
                 <span className="text-gray-400">{`',`}</span>
               </div>
               <div className="ml-4 lg:ml-8 mr-2">
                 <span className=" text-white">skills:</span>
                 <span className="text-gray-400">{`['`}</span>
-                <span className="text-amber-300">HTML5</span>
+                <span className="text-amber-300">Vulnerability Assessment</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">CSS</span>
+                <span className="text-amber-300">Network Scanning</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">JavaScript</span>
+                <span className="text-amber-300">Penetration Testing</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">React</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Git</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Redux</span>
+                <span className="text-amber-300">JavaScript</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Express</span>
+                <span className="text-amber-300">C++(DSA)</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">NodeJS</span>
+                <span className="text-amber-300">C</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">PostgreSql</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">MongoDB</span>
+                <span className="text-amber-300">Java</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Python</span>
                 <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">HTML5</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">UI/UX</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">APIs</span>
+                <span className="text-amber-300">CSS</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Java</span>
+                <span className="text-amber-300">MongoDB</span>
                 <span className="text-gray-400">{"'],"}</span>
               </div>
               <div>
@@ -169,7 +169,7 @@ function HeroSection() {
               </div>
               <div>
                 <span className="ml-12 lg:ml-24 text-cyan-400">this.</span>
-                <span className="mr-2 text-white">hardWorker</span>
+                <span className="mr-2 text-white">smartWorker</span>
                 <span className="text-amber-300">&amp;&amp;</span>
               </div>
               <div>
