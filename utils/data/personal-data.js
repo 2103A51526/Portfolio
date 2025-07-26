@@ -1,17 +1,17 @@
 export const personalData = {
-  name: "Chandan Raj",
+  name: "Vikram Kumar",
   profile: '/profile.png',
-  designation: "Networking, Network & System Security, Software Development and Ethical Hacking",
-  description: "I am Chandan Raj, a passionate and dedicated professional programmer with a strong interest in system security, networking, and creative problem-solving. With a solid foundation in C++ and Data Structures & Algorithms, I have built a strong skill set that enables me to deliver efficient and innovative solutions. I specialize in networking and system security, with knowledge in CCNA, ethical hacking, vulnerability assessment, and penetration testing. My experience also includes scripting with Python, basic Android development using Kotlin, and frontend development with React and Next.js. I have a strong self-learning attitude and constantly strive to stay updated with the latest technologies and trends in the tech industry. I take pride in delivering quality, accessible digital experiences while approaching complex challenges with creativity and determination. I am currently looking for an exciting opportunity that matches my passion for technology and desire to make a meaningful impact through my work.",
-  email: 'craj0956@gmail.com',
+  designation: "Software Developer",
+  description: 'Hello, my name is Vikram Kumar — a skilled programmer with an abiding interest in problem-solving and lifelong learning. I am an expert in MERN stack development and possess strong knowledge of JavaScript and web technologies. My key strength is to develop scalable, user-centric web applications with secure backends and responsive frontends.I am a quick learner with a keen self-learning spirit, continuously discovering new technologies to keep myself updated with industry trends. I am specifically interested in creating clean, accessible, and high-performance solutions that provide improved user experience and tackle real-world issues.I am  actively looking for interesting opportunities where I can apply my abilities and interest in technology—particularly opportunities in product-oriented or influential tech settings. Lets get together and see how we can make the future of web development a reality.".',
+  email: 'vikramkumar04836@gmail.com',
   phone: '+91 9572600598',
   address: 'Ramnagar Hanamkonda Warangal Telangana 506001',
-  github: 'https://github.com/Chandan-I',
+  github: 'https://github.com/2103A51526',
   facebook: '',
-  linkedIn: 'https://www.linkedin.com/in/chandan-raj07',
-  twitter: 'https://x.com/ChandanRaj0956',
+  linkedIn: 'https://www.linkedin.com/in/vikram-kumar-2b1473270/',
+  twitter: 'https://x.com/VikramKumar707?t=lDKF3NFFUwH4DBdmp5XijA&s=09',
   stackOverflow: '',
-  leetcode: "https://leetcode.com/u/chandan_raj0956/",
-  devUsername: "ChandanRaj",
-  resume: "https://drive.google.com/file/d/1C5Sp_kZwBELdYmAualDkViEWTdncMhMU/view?usp=sharing"
+  leetcode: "https://leetcode.com/u/Vikram0786/",
+  devUsername: "vikram Kumar",
+  resume: "https://drive.google.com/file/d/1eGUXElH6FBoLSeUvCfWa9XUOMnY1yZ5g/view"
 }
